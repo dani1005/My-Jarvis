@@ -1,0 +1,7 @@
+{
+  "name": "J.A.R.V.I.S. AR Interface",
+  "description": "A Tony Stark inspired AR Heads Up Display featuring face tracking, hand-gesture controlled 3D holographic globe, and live system metrics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
